@@ -1,0 +1,10 @@
+.eventsPage {
+    align-items: center;
+    margin: 20px 60px;
+    display: flex;
+    flex-direction: column;
+}
+
+.eventsList > * {
+    margin: 10px 0;
+}
